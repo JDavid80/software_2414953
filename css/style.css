@@ -30,12 +30,14 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 .img-principal {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center
+    text-align: center;
+    width: 100%;
 }
 .icon-lupa {
     font-size: 1em;
